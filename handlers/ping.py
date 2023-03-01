@@ -49,21 +49,21 @@ async def help(client: Client, message: Message):
     start = datetime.now()
     end = datetime.now()
     resp = (end - start).microseconds / 1000
-    await message.reply_sticker("CAACAgUAAxkBAAEOnXRj0K3rOj2KzPQEII_mzUUJf65_0AACUAcAAjA5gFZaJKzDHxVmBC0E")
+    await message.reply_sticker("CAACAgUAAxkDAAKA82P--qL066ND9OgiRoasosU3hmCnAAJVAQACB-QBVGNqeJnsWN7QHgQ")
     jay = await message.reply_photo(
         photo=f"{PING_IMG}",
         caption=" Pinging...⚡ ",
     )
     await jay.edit_text(
-        f"""<b> 𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀 𝙓 𝙈𝙐𝙎𝙄𝘾 ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ Uptime : {bot_uptime}\n🔮 Cpu : {cpu}%\n💫 Disk : {disk}%\n❤️ Ram : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [𝙼𝙾𝙾𝙽𝚂𝙷𝙸𝙽𝙴🥀](https://t.me/MT_LEXTUS_XD)||""",
+        f"""<b> ⏤͟͟͢͞͞𝐂ᥫ᭡፝֟𝐖™✘𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓⏤͟͟͢͞͞ ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ Uptime : {bot_uptime}\n🔮 Cpu : {cpu}%\n💫 Disk : {disk}%\n❤️ Ram : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [𝙆𝙍𝙄𝙎𝙃𝙉𝘼🥀](https://t.me/krishna_op_143)||""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "📨 Support ", url=f"https://t.me/COOKIE_WORLD"
+                        "📨 Support ", url=f"https://t.me/TOXIC_WORLD_2"
                     ),
                     InlineKeyboardButton(
-                        "📨 Channel ", url=f"https://t.me/AASHIYANA_MERA"
+                        "📨 Channel ", url=f"https://t.me/CRUSH_WORLD_DP_GIF_ZONE"
                     ),
                 ],
                 [
