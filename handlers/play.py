@@ -55,7 +55,7 @@ async def play(_, message: Message):
 
     await message.delete()
 
-    programmer = await message.reply("🥰𝙒𝘼𝙄𝙏 𝙁𝙀𝙒 𝙎𝙀𝘾𝙊𝙉𝘿𝙎 𝙎𝙀𝘼𝙍𝘾𝙃𝙄𝙉𝙂 𝙔𝙊𝙐𝙍 𝙌𝙐𝙀𝙍𝙔🥰")
+    programmer = await message.reply("🤪𝙍𝙐𝙆 𝙅𝘼 𝙏𝙃𝙊𝙍𝙄 𝘿𝙀𝙍 𝘿𝙃𝙊𝙊𝙉𝘿 𝙍𝙃𝘼 𝙃𝙐 𝙏𝙀𝙍𝘼 𝘽𝙆𝙒𝙎 𝙎𝙊𝙉𝙂🤢🤮")
 
     chumtiya = message.from_user.mention
 
@@ -206,8 +206,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/COOKIE_WORLD"),
-                    InlineKeyboardButton("📨 Channel", url=f"https://t.me/AASHIYANA_MERA")
+                    InlineKeyboardButton("📨 Support", url=f"https://t.me/TOXIC_WORLD_2"),
+                    InlineKeyboardButton("📨 Channel", url=f"https://t.me/CRUSH_WORLD_DP_GIF_ZONE")
                 ],
                 [
                    InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
@@ -232,8 +232,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/COOKIE_WORLD"),
-                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/AASHIYANA_MERA")
+                    InlineKeyboardButton("📨 Support", url=f"https://t.me/TOXIC_WORLD_2"),
+                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/CRUSH_WORLD_DP_GIF_ZONE")
                 ],
                 [
                     InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
